@@ -1,0 +1,6 @@
+vosk
+sounddevice
+bleak
+requests
+rapidfuzz
+python-dotenv

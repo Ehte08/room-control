@@ -1,0 +1,10 @@
+.env
+aliases.json
+vosk-model*/
+*.zip
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+venv/
+env/
